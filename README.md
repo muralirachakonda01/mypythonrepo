@@ -1,2 +1,2 @@
 # mypythonrepo
-## Welcome to My repogit
+## Welcome to My repo
